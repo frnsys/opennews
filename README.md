@@ -8,7 +8,7 @@ To keep track of what I've worked on through the course of my 2015 Knight-Mozill
 - [focusgroup](https://github.com/ftzeng/focusgroup) - build ground-truth news article clusters by sampling wikinews dumps
 - columbo - system to automatically distinguish rhetorical from non-rhetorical questions (WIP)
 - supplychain - build corpora from news article feeds
-- factory - train various nlp models for use in other projects
+- [factory](https://github.com/ftzeng/factory) - train various nlp models for use in other projects
 - [sup](https://github.com/ftzeng/sup) - some often reused python utilities
 - pycrnr - python interface to NYT CRNR API
 - nytnlp - nlp utilities and algorithms library
