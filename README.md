@@ -14,6 +14,8 @@ To keep track of what I've worked on through the course of my 2015 Knight-Mozill
 - nytnlp - nlp utilities and algorithms library
 - rep - implementation of a reputation and contribution-ranking system for an image annotation social network
 - pano - dashboard for NYT commenting statistics (by section, timeframe, or user)
+- [hscluster](https://github.com/ftzeng/hscluster) - a technique for clustering news articles without needing to specify parameters
+- [port](https://github.com/ftzeng/port) - a lightweight markdown-driven blogging platform
 
 
 ## Education/Research
